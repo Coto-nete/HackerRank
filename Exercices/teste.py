@@ -1,3 +1,4 @@
-arr= [1,2,3,4,4]
-
-print(arr.count(4-1))
+for c in ['a','b','c']:
+    for j in [1,2,3]:
+        print(c,j)
+        break
