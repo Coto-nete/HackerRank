@@ -1,2 +1,2 @@
 # HackerRank
- Exercices from HackerRank
+ Exercices from HackerRank in Python3
