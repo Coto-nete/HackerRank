@@ -1,3 +1,3 @@
-for c in range(0,9,3):
-    print(c)
-    
+arr= [1,2,3,4,4]
+
+print(arr.count(4-1))
